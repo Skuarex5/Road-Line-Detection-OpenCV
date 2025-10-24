@@ -2,7 +2,7 @@
 
 
 A lightweight **road line (lane boundary) detection** project built with **Python** and **OpenCV**.  
-It focuses on detecting the **right lane boundary** (continuous or dashed white/yellow line) in **real-time** from a camera feed — optimized for low-power devices like **Jetson Nano**.
+It focuses on detecting the **right lane boundary** (continuous or dashed white/yellow line) in **real-time** from a camera feed optimized for low-power devices like **Jetson Nano**.
 
 ---
 
