@@ -1,4 +1,4 @@
-# Road-Line-Detection-OpenCV
+# 🚗 Road-Line-Detection-OpenCV
 
 
 A lightweight **road line (lane boundary) detection** project built entirely with **Python** and **OpenCV**.  
