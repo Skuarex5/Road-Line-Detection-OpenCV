@@ -67,4 +67,6 @@ pip install opencv-python numpy
 ---
 
 ## 📸 Example
-![Demo](demo.png)
+<p align="center">
+  <img src="./demo.png" alt="Detection" width="500">
+</p>
