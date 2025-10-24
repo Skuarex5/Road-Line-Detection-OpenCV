@@ -13,10 +13,6 @@ It focuses on detecting the **right lane boundary** (continuous or dashed white/
 
 Install all requirements with:
 ```bash
-pip install -r requirements.txt
-```
-or manually:
-```bash
 pip install opencv-python numpy
 ```
 
