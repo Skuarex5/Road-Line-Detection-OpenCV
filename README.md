@@ -47,11 +47,6 @@ pip install opencv-python numpy
    ```
 3. Press **`q`** to quit.
 
-Windows appear for:
-- **Detección de línea del camino** → main frame with the detected line  
-- **Máscara de color** → white/yellow filter result  
-- **Bordes** → Canny edge map  
-
 ---
 
 ## ⚙️ Parameters to Tune
